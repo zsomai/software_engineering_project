@@ -1,0 +1,12 @@
+.book-list {
+    display: flex;
+    overflow-x: scroll;
+}
+
+.recommandation-book > .button {
+    padding: 0.3rem;
+    margin: 0.3rem;
+    background-color: #51203d;
+    font-weight: bold;
+    border-radius: 4px;
+}

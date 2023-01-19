@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    height: 4em;
+    background-color: #36454F;
+    color: white;
+    align-items: center;
+    box-shadow: 3px 2px rgba(0,0,0,0.5);
+}
+nav > a{
+    padding-right: 2rem;
+
+}
